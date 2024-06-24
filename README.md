@@ -35,7 +35,7 @@ Features:
 8. `SFOAE` - Runs the most beautiful script for important data collection
 9. `Afaghtest`- learning Github
 10.`masking` - runs masking protocol
-11. `Shutdown` - Shuts NEL off, saves current state
+11. `yawcamMonitor` - check chinchilla health status
 12. `latency` - latency tracking on NELs
-
+13. `Shutdown` - Shuts NEL off, saves current state
 
