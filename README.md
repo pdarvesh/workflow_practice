@@ -32,6 +32,7 @@ Features:
 5. `Binding` - runs binding protocol
 6. `ChinSOS` - calls for help 
 7. `Shutdown` - Shuts NEL off, saves current state
+8. 'yawcamMonitor' - check chinchilla health status
 
 
 
