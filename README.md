@@ -36,7 +36,7 @@ Features:
 9. `pABR` - need to get this implemented soon for binaural efficiency
 10. `qwertyu` - Adarsh random feature
 11. `yawcamMonitor` - check chinchilla health status
-12.`Afaghtest`- learning Github
+12. `Afaghtest`- learning Github
 13.`masking` - runs masking protocol
 14. `yawcamMonitor` - check chinchilla health status
 15. `latency` - latency tracking on NELs
