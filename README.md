@@ -36,5 +36,6 @@ Features:
 9. `Afaghtest`- learning Github
 10.`masking` - runs masking protocol
 11. `Shutdown` - Shuts NEL off, saves current state
+12. `latency` - latency tracking on NELs
 
 
