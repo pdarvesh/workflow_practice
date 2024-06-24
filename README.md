@@ -33,9 +33,13 @@ Features:
 6. `ChinSOS` - calls for help 
 7. `STMpilot` - pilot data for R01 using spectro-temporal modulation (STM) stimuli 
 8. `SFOAE` - Runs the most beautiful script for important data collection
-9. `Afaghtest`- learning Github
-10.`masking` - runs masking protocol
+10. `qwertyu` - Adarsh random feature
 11. `yawcamMonitor` - check chinchilla health status
-12. `latency` - latency tracking on NELs
-13. `Shutdown` - Shuts NEL off, saves current state
+12.`Afaghtest`- learning Github
+13.`masking` - runs masking protocol
+14. `yawcamMonitor` - check chinchilla health status
+15. `latency` - latency tracking on NELs
+16. `Shutdown` - Shuts NEL off, saves current state
+
+
 
