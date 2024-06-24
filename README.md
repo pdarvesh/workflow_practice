@@ -28,13 +28,13 @@ Features:
 1. `Startup` - Starts NEL
 2. `ABR` - runs ABR protocol
 3. `dpOAE` - runs our dpOAE script
-4. `orderPizza` - orders Pizza during a long AN experiment [someone should remove this at some point to make sure its handled properly]
+4. `orderPizza` - orders Pizza during a long AN experiment [someone should remove this at some point to make sure its handled properly :)]
 5. `Binding` - runs binding protocol
 6. `ChinSOS` - calls for help 
-7. `Shutdown` - Shuts NEL off, saves current state
-8. 'yawcamMonitor' - check chinchilla health status
-
-
-
-
+7. `yawcamMonitor` - check chinchilla health status
+9. `STMpilot` - pilot data for R01 using spectro-temporal modulation (STM) stimuli 
+10. `SFOAE` - Runs the most beautiful script for important data collection
+11. `Afaghtest`- learning Github
+12.`masking` - runs masking protocol
+13. `Shutdown` - Shuts NEL off, saves current state
 
