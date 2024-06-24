@@ -33,7 +33,8 @@ Features:
 6. `ChinSOS` - calls for help 
 7. `STMpilot` - pilot data for R01 using spectro-temporal modulation (STM) stimuli 
 8. `SFOAE` - Runs the most beautiful script for important data collection
-9. `Shutdown` - Shuts NEL off, saves current state
+9. 'pABR' - need to get this implemented soon for binaural efficiency
+10. `Shutdown` - Shuts NEL off, saves current state
 
 
 
