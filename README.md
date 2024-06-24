@@ -34,6 +34,9 @@ Features:
 7. `STMpilot` - pilot data for R01 using spectro-temporal modulation (STM) stimuli 
 8. `SFOAE` - Runs the most beautiful script for important data collection
 9. `Shutdown` - Shuts NEL off, saves current state
-10. qwertyu
-
+10. `qwertyu` - Adarsh random feature
+11. `yawcamMonitor` - check chinchilla health status
+12. `Afaghtest`- learning Github
+13.`masking` - runs masking protocol
+14. `Shutdown` - Shuts NEL off, saves current state
 
