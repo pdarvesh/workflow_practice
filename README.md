@@ -31,10 +31,10 @@ Features:
 4. `orderPizza` - orders Pizza during a long AN experiment [someone should remove this at some point to make sure its handled properly :)]
 5. `Binding` - runs binding protocol
 6. `ChinSOS` - calls for help 
-7. `STMpilot` - pilot data for R01 using spectro-temporal modulation (STM) stimuli 
-8. `SFOAE` - Runs the most beautiful script for important data collection
-9. `Afaghtest`- learning Github
-10.`masking` - runs masking protocol
-11. `Shutdown` - Shuts NEL off, saves current state
-
+7. `yawcamMonitor` - check chinchilla health status
+9. `STMpilot` - pilot data for R01 using spectro-temporal modulation (STM) stimuli 
+10. `SFOAE` - Runs the most beautiful script for important data collection
+11. `Afaghtest`- learning Github
+12.`masking` - runs masking protocol
+13. `Shutdown` - Shuts NEL off, saves current state
 
